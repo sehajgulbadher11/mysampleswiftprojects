@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3F49A0F92E5EC4B60079DB67 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F49A0DA2E5EC4B50079DB67 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F49A0E12E5EC4B50079DB67;
+			remoteInfo = "Hotel Codable";
+		};
+		3F49A1032E5EC4B60079DB67 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F49A0DA2E5EC4B50079DB67 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F49A0E12E5EC4B50079DB67;
+			remoteInfo = "Hotel Codable";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3F49A0E22E5EC4B50079DB67 /* Hotel Codable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hotel Codable.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F49A0F82E5EC4B60079DB67 /* Hotel CodableTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hotel CodableTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F49A1022E5EC4B60079DB67 /* Hotel CodableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hotel CodableUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3F49A10A2E5EC4B60079DB67 /* Exceptions for "Hotel Codable" folder in "Hotel Codable" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 3F49A0E12E5EC4B50079DB67 /* Hotel Codable */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3F49A0E42E5EC4B50079DB67 /* Hotel Codable */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3F49A10A2E5EC4B60079DB67 /* Exceptions for "Hotel Codable" folder in "Hotel Codable" target */,
+			);
+			path = "Hotel Codable";
+			sourceTree = "<group>";
+		};
+		3F49A0FB2E5EC4B60079DB67 /* Hotel CodableTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Hotel CodableTests";
+			sourceTree = "<group>";
+		};
+		3F49A1052E5EC4B60079DB67 /* Hotel CodableUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Hotel CodableUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F49A0DF2E5EC4B50079DB67 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F49A0F52E5EC4B60079DB67 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F49A0FF2E5EC4B60079DB67 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F49A0D92E5EC4B50079DB67 = {
+			isa = PBXGroup;
+			children = (
+				3F49A0E42E5EC4B50079DB67 /* Hotel Codable */,
+				3F49A0FB2E5EC4B60079DB67 /* Hotel CodableTests */,
+				3F49A1052E5EC4B60079DB67 /* Hotel CodableUITests */,
+				3F49A0E32E5EC4B50079DB67 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F49A0E32E5EC4B50079DB67 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F49A0E22E5EC4B50079DB67 /* Hotel Codable.app */,
+				3F49A0F82E5EC4B60079DB67 /* Hotel CodableTests.xctest */,
+				3F49A1022E5EC4B60079DB67 /* Hotel CodableUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F49A0E12E5EC4B50079DB67 /* Hotel Codable */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F49A10B2E5EC4B60079DB67 /* Build configuration list for PBXNativeTarget "Hotel Codable" */;
+			buildPhases = (
+				3F49A0DE2E5EC4B50079DB67 /* Sources */,
+				3F49A0DF2E5EC4B50079DB67 /* Frameworks */,
+				3F49A0E02E5EC4B50079DB67 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3F49A0E42E5EC4B50079DB67 /* Hotel Codable */,
+			);
+			name = "Hotel Codable";
+			packageProductDependencies = (
+			);
+			productName = "Hotel Codable";
+			productReference = 3F49A0E22E5EC4B50079DB67 /* Hotel Codable.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3F49A0F72E5EC4B60079DB67 /* Hotel CodableTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F49A1102E5EC4B60079DB67 /* Build configuration list for PBXNativeTarget "Hotel CodableTests" */;
+			buildPhases = (
+				3F49A0F42E5EC4B60079DB67 /* Sources */,
+				3F49A0F52E5EC4B60079DB67 /* Frameworks */,
+				3F49A0F62E5EC4B60079DB67 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F49A0FA2E5EC4B60079DB67 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3F49A0FB2E5EC4B60079DB67 /* Hotel CodableTests */,
+			);
+			name = "Hotel CodableTests";
+			packageProductDependencies = (
+			);
+			productName = "Hotel CodableTests";
+			productReference = 3F49A0F82E5EC4B60079DB67 /* Hotel CodableTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3F49A1012E5EC4B60079DB67 /* Hotel CodableUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F49A1132E5EC4B60079DB67 /* Build configuration list for PBXNativeTarget "Hotel CodableUITests" */;
+			buildPhases = (
+				3F49A0FE2E5EC4B60079DB67 /* Sources */,
+				3F49A0FF2E5EC4B60079DB67 /* Frameworks */,
+				3F49A1002E5EC4B60079DB67 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F49A1042E5EC4B60079DB67 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3F49A1052E5EC4B60079DB67 /* Hotel CodableUITests */,
+			);
+			name = "Hotel CodableUITests";
+			packageProductDependencies = (
+			);
+			productName = "Hotel CodableUITests";
+			productReference = 3F49A1022E5EC4B60079DB67 /* Hotel CodableUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F49A0DA2E5EC4B50079DB67 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					3F49A0E12E5EC4B50079DB67 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					3F49A0F72E5EC4B60079DB67 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3F49A0E12E5EC4B50079DB67;
+					};
+					3F49A1012E5EC4B60079DB67 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3F49A0E12E5EC4B50079DB67;
+					};
+				};
+			};
+			buildConfigurationList = 3F49A0DD2E5EC4B50079DB67 /* Build configuration list for PBXProject "Hotel Codable" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F49A0D92E5EC4B50079DB67;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3F49A0E32E5EC4B50079DB67 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F49A0E12E5EC4B50079DB67 /* Hotel Codable */,
+				3F49A0F72E5EC4B60079DB67 /* Hotel CodableTests */,
+				3F49A1012E5EC4B60079DB67 /* Hotel CodableUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F49A0E02E5EC4B50079DB67 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F49A0F62E5EC4B60079DB67 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F49A1002E5EC4B60079DB67 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F49A0DE2E5EC4B50079DB67 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F49A0F42E5EC4B60079DB67 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F49A0FE2E5EC4B60079DB67 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3F49A0FA2E5EC4B60079DB67 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F49A0E12E5EC4B50079DB67 /* Hotel Codable */;
+			targetProxy = 3F49A0F92E5EC4B60079DB67 /* PBXContainerItemProxy */;
+		};
+		3F49A1042E5EC4B60079DB67 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F49A0E12E5EC4B50079DB67 /* Hotel Codable */;
+			targetProxy = 3F49A1032E5EC4B60079DB67 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3F49A10C2E5EC4B60079DB67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Hotel Codable/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abc.Hotel-Codable";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3F49A10D2E5EC4B60079DB67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Hotel Codable/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abc.Hotel-Codable";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3F49A10E2E5EC4B60079DB67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3F49A10F2E5EC4B60079DB67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3F49A1112E5EC4B60079DB67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abc.Hotel-CodableTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hotel Codable.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hotel Codable";
+			};
+			name = Debug;
+		};
+		3F49A1122E5EC4B60079DB67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abc.Hotel-CodableTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hotel Codable.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hotel Codable";
+			};
+			name = Release;
+		};
+		3F49A1142E5EC4B60079DB67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abc.Hotel-CodableUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hotel Codable";
+			};
+			name = Debug;
+		};
+		3F49A1152E5EC4B60079DB67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abc.Hotel-CodableUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hotel Codable";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F49A0DD2E5EC4B50079DB67 /* Build configuration list for PBXProject "Hotel Codable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F49A10E2E5EC4B60079DB67 /* Debug */,
+				3F49A10F2E5EC4B60079DB67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F49A10B2E5EC4B60079DB67 /* Build configuration list for PBXNativeTarget "Hotel Codable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F49A10C2E5EC4B60079DB67 /* Debug */,
+				3F49A10D2E5EC4B60079DB67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F49A1102E5EC4B60079DB67 /* Build configuration list for PBXNativeTarget "Hotel CodableTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F49A1112E5EC4B60079DB67 /* Debug */,
+				3F49A1122E5EC4B60079DB67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F49A1132E5EC4B60079DB67 /* Build configuration list for PBXNativeTarget "Hotel CodableUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F49A1142E5EC4B60079DB67 /* Debug */,
+				3F49A1152E5EC4B60079DB67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F49A0DA2E5EC4B50079DB67 /* Project object */;
+}
